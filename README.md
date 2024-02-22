@@ -21,4 +21,3 @@ The Algorithms used:
 2. Face Recognition : LBPH Algorithm.
 
 
-P.S : The project is still in development phase , we will upload it once we submit it to the panel.
